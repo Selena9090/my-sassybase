@@ -1,3 +1,4 @@
 # my-sassybase
-An in-class exercise learning SCSS
+My Personal Sassy Base
+
 [View demo] (https://Selena9090.github.io/my-sassybase)

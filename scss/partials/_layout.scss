@@ -1,21 +1,23 @@
-/* RESET BODY */ 
+/* RESET BODY */
 body {
     margin: 0;
 }
 
-/* CONTAINER */ 
+/* CONTAINER */
 .container {
-    max-width: 1000px;
     margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 1em;
 }
 
-/* MEDIA QUERIES */ 
+/* MEDIA QUERIES */
 
-/* RESPONSIVE TYPOGRAPHY */ 
-// SMALL
+/* RESPONSIVE TYPOGRAPHY */
+
+//SMALL
 body { font-size: 87.5%; }
 
-@media (min-width: $breakpoint-medium) {
+@media (min-width: $breakpoint-small) {
     body { font-size: 100%; }
 }
 
